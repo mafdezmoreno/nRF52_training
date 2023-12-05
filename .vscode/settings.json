@@ -1,0 +1,32 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/fund/fund_less2_exer1",
+        "${workspaceFolder}/fund/fund_less2_exer2",
+        "${workspaceFolder}/fund/fund_less3_exer1",
+        "${workspaceFolder}/fund/fund_less3_exer2",
+        "${workspaceFolder}/fund/fund_less4_exer1",
+        "${workspaceFolder}/fund/fund_less4_exer2",
+        "${workspaceFolder}/fund/fund_less4_exer3",
+        "${workspaceFolder}/fund/fund_less5_exer1",
+        "${workspaceFolder}/fund/fund_less7_exer1",
+        "${workspaceFolder}/fund/fund_less7_exer2",
+        "${workspaceFolder}/fund/fund_less7_exer3",
+        "${workspaceFolder}/fund/fund_less8_exer1",
+        "${workspaceFolder}/fund/fund_less8_exer2",
+        "${workspaceFolder}/fund/fund_less1_exer2"
+    ],
+    "cSpell.words": [
+        "devicetree",
+        "gpio",
+        "Hexdump",
+        "leds",
+        "NODELABEL",
+        "printk",
+        "WORQ"
+    ],
+    "files.associations": {
+        "kernel.h": "c",
+        "printk.h": "c",
+        "rand32.h": "c"
+    }
+}
